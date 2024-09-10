@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Johannes Hahn"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral researcher in the filds of Mechanism Design & Discrete Optimization"
+  bio              : "Doctoral researcher in the area of Mechanism Design & Discrete Optimization"
   location         : "Nuremberg"
   employer         : "University of Technology"
   uri              : # URL
@@ -57,12 +57,12 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Username
+  linkedin         : #Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : Username
-  steam            : # Username
+  soundcloud       : #Username
+  spotify          : #johannes_hahn
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
