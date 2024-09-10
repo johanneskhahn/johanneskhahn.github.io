@@ -12,8 +12,14 @@ I am a Doctoral reseacher at the University of Technology Nuremberg. I did my un
 Research Interests
 Working Gas Networks Mechanism Design and Discrete Optimization. Optimal auctions under gas network constraints.
 
-News
-======
+---
+permalink: /
+title: "News"
+author_profile: true
+redirect_from: 
+  - /news/
+  - /news.html
+---
 Paper accepted at SAGT 2024
 MOG
 DSL
