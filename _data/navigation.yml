@@ -6,7 +6,7 @@
 
 main:
   - title: "Home"
-    url: /#(quick info)
+    url: /#quick-info
     
   - title: "News"
     url: /#news  
