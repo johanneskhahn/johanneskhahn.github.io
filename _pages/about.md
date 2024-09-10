@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Quick Info
+======
 I am a Doctoral reseacher at the University of Technology Nuremberg. I did my undergrads at FAU Erlangen-Nürnberg and started my PhD there bofre moving to Nuremberg. Working Gas Networks Mechanism Design and Discrete Optimization. Supervisers are Alex Martin and Yiannis Giannakopoulos.
 
 Research Interests
