@@ -23,9 +23,9 @@ Publications
 1. SAGT 2024
 
 Preprints
-------
+======
 Arxiv
 
 Contact
-------
+======
 Ulmenstraße in Nuremberg, Mailadresse
