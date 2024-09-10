@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "Quick info"
@@ -11,6 +12,8 @@ I am a Doctoral reseacher at the University of Technology Nuremberg. I did my un
 Research Interests
 Working Gas Networks Mechanism Design and Discrete Optimization. Optimal auctions under gas network constraints.
 
+---
+
 News
 ======
 Paper accepted at SAGT 2024
@@ -18,15 +21,21 @@ MOG
 DSL
  went to the Bonaventura Gymnasium (High School) in Dillingen, Bavaria, which is committed to musically promotion. Besides learning to play the piano I gained an early enjoyment of classical music. In this time I also joined the choir CHORios - a group of passionate young singers from baroque to contemporary music. Until today I am very connected to this choir and we already had some nice concerts and concert tours.
 
+---
+
 Publications
 ======
 1. SAGT 2024
  went to the Bonaventura Gymnasium (High School) in Dillingen, Bavaria, which is committed to musically promotion. Besides learning to play the piano I gained an early enjoyment of classical music. In this time I also joined the choir CHORios - a group of passionate young singers from baroque to contemporary music. Until today I am very connected to this choir and we already had some nice concerts and concert tours.
 
+---
+
 Preprints
 ======
 Arxiv
  went to the Bonaventura Gymnasium (High School) in Dillingen, Bavaria, which is committed to musically promotion. Besides learning to play the piano I gained an early enjoyment of classical music. In this time I also joined the choir CHORios - a group of passionate young singers from baroque to contemporary music. Until today I am very connected to this choir and we already had some nice concerts and concert tours.
+
+---
 
 Contact
 ======
