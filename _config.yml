@@ -21,7 +21,7 @@ repository               : "johanneskhahn/johanneskhahn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Hahn_Johannes.png"
   name             : "Johannes Hahn"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral researcher in the area of Mechanism Design & Discrete Optimization"
