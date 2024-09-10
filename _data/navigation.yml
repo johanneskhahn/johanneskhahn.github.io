@@ -8,8 +8,11 @@ main:
   - title: "Home"
     url: /publications/  
     
+  - title: "News"
+    url: /news/  
+    
   - title: "Publications"
-    url: /portfolio/
+    url: /about/
 
   - title: "Contact"
-    url: /Contact
+    url: /about/Contact
