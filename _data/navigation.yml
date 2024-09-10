@@ -9,10 +9,10 @@ main:
     url: /publications/  
     
   - title: "News"
-    url: /news/  
+    url: /#news  
     
   - title: "Publications"
     url: /about/
 
   - title: "Contact"
-    url: /about/Contact
+    url: /#contact
