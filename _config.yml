@@ -25,8 +25,8 @@ author:
   name             : "Johannes Hahn"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral researcher in the area of Mechanism Design & Discrete Optimization"
-  location         : "Nuremberg"
-  employer         : "University of Technology"
+  location         : # "Nuremberg"
+  employer         : "University of Technology Nuremberg"
   uri              : # URL
   email            : "johannes.hahn@utn.de" 
 
