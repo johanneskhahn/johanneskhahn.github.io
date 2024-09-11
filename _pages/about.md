@@ -15,7 +15,6 @@ My research is primarily funded by the collaborative research center (CRC) SFB T
 Research Interests
 Working Gas Networks Mechanism Design and Discrete Optimization. Optimal auctions under gas network constraints.
 
----
 
 ## News
 - Paper accepted at SAGT 2024
