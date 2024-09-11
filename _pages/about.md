@@ -29,7 +29,11 @@ News
 ======
 <style>
   gblock{
-    background:green;
+    background-color:#02f3e5;
+border-radius:4px;
+font-size:16px;
+padding:15px;
+margin:5px;
   }
 </style>
 
