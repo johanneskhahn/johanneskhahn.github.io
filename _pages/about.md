@@ -15,9 +15,9 @@ Working Gas Networks Mechanism Design and Discrete Optimization. Optimal auction
 ---
 "And here's to you, Mrs, Jesus loves you more than you will know."
 
-<style="background-color:green">
 News
 ======
+<style="background-color:green">
 Paper accepted at SAGT 2024
 MOG
 DSL
