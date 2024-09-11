@@ -14,40 +14,17 @@ Working Gas Networks Mechanism Design and Discrete Optimization. Optimal auction
 
 ---
 
-<p align=justify style="background-color:#02f3e5;
-border-radius:4px;
-font-size:16px;
-padding:15px;
-margin:5px;"><b>
-## head 
-asd
-asddd
-ads </b>
-</p>
+## News
 
-News
-======
-<style>
-  gblock{
-    background-color:#02f3e5;
-border-radius:4px;
-font-size:16px;
-padding:15px;
-margin:5px;
-  }
-</style>
-
-<gblock>
 Paper accepted at SAGT 2024
 MOG
 DSL
 went to the Bonaventura Gymnasium (High School) in Dillingen, Bavaria, which is committed to musically promotion. Besides learning to play the piano I gained an early enjoyment of classical music. In this time I also joined the choir CHORios - a group of passionate young singers from baroque to contemporary music. Until today I am very connected to this choir and we already had some nice concerts and concert tours.
-</gblock>
 
 ---
 
-Publications
-======
+## Publications
+
 1. SAGT 2024
  went to the Bonaventura Gymnasium (High School) in Dillingen, Bavaria, which is committed to musically promotion. Besides learning to play the piano I gained an early enjoyment of classical music. In this time I also joined the choir CHORios - a group of passionate young singers from baroque to contemporary music. Until today I am very connected to this choir and we already had some nice concerts and concert tours.
 
