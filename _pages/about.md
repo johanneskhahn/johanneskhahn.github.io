@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Quick info"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Quick Info
 I am a research associate and doctoral candidate at the Analytics & Optimization Lab at University of Technology Nuremberg (UTN). Before following my supervisor Prof. Dr. Alexander Martin to UTN, I've had identical roles at the chair for Analytics & Mixed-integer Optimization at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).
 
