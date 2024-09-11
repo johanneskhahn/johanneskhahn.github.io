@@ -5,6 +5,7 @@ redirect_from:
   - /about.html
 ---
 
+## Quick Info
 I am a research associate and doctoral candidate at the Analytics & Optimization Lab at University of Technology Nuremberg (UTN). Before following my supervisor Prof. Dr. Alexander Martin to UTN, I've had identical roles at the chair for Analytics & Mixed-integer Optimization at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).
 
 I am a Doctoral reseacher at the University of Technology Nuremberg. I did my undergrads at FAU Erlangen-Nürnberg and started my PhD there bofre moving to Nuremberg. Working Gas Networks Mechanism Design and Discrete Optimization. Supervisers are Alex Martin and Yiannis Giannakopoulos.
@@ -15,21 +16,21 @@ Working Gas Networks Mechanism Design and Discrete Optimization. Optimal auction
 
 
 ## News
-- Paper accepted at SAGT 2024
-- MOG
-- DSL
+- October 2024: In October I will attend the Mathematics of Gas Conference
+- September 2024: Paper accepted at SAGT 2024
+- April 2024: A Team from UTN achieved the 2nd place on first matchday of the Franconian Data Science League
 
----
 
 ## Publications
-- SAGT 2024
-I went to the Bonaventura Gymnasium (High School) in Dillingen, Bavaria, which is committed to musically promotion. Besides learning to play the piano I gained an early enjoyment of classical music. In this time I also joined the choir CHORios - a group of passionate young singers from baroque to contemporary music. Until today I am very connected to this choir and we already had some nice concerts and concert tours.
+- Discrete Single-Parameter Optimal Auction Design [arXiv] [doi] [bibtex]
+Yiannis Giannakopoulos and Johannes Hahn
+17th International Symposium on Algorithmic Game Theory (SAGT 2024)
+
 
 ## Teaching
-- Einf in die math
-- Math for DataScience
+- Assistance in Lectures on Mathematik für Data Science und Physikstudierende
+- Assistance in Lectures on Einführung in die mathematische Datenanalyse
+at the Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 ## Contact
-======
 Ulmenstraße in Nuremberg, Mailadresse
- went to the Bonaventura Gymnasium (High School) in Dillingen, Bavaria, which is committed to musically promotion. Besides learning to play the piano I gained an early enjoyment of classical music. In this time I also joined the choir CHORios - a group of passionate young singers from baroque to contemporary music. Until today I am very connected to this choir and we already had some nice concerts and concert tours.
