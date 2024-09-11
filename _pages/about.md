@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "asd"
+title: " "
 redirect_from: 
   - /about/
   - /about.html
