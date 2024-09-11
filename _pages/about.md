@@ -28,7 +28,9 @@ Working Gas Networks Mechanism Design and Discrete Optimization. Optimal auction
 - SAGT 2024
 I went to the Bonaventura Gymnasium (High School) in Dillingen, Bavaria, which is committed to musically promotion. Besides learning to play the piano I gained an early enjoyment of classical music. In this time I also joined the choir CHORios - a group of passionate young singers from baroque to contemporary music. Until today I am very connected to this choir and we already had some nice concerts and concert tours.
 
----
+## Teaching
+- Einf in die math
+- Math for DataScience
 
 ## Contact
 ======
