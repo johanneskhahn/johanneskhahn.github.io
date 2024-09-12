@@ -17,8 +17,8 @@ My research is primarily funded by the [German Research Foundation (DFG)](https:
 
 
 ## Publications
-- __Discrete Single-Parameter Optimal Auction Design__ [arXiv](https://arxiv.org/abs/2406.08125) [doi](https://link.springer.com/chapter/10.1007/978-3-031-71033-9_10) [bibtex]()
-  Yiannis Giannakopoulos and Johannes Hahn
+- __Discrete Single-Parameter Optimal Auction Design__ [[arXiv](https://arxiv.org/abs/2406.08125)] [[doi](https://link.springer.com/chapter/10.1007/978-3-031-71033-9_10)] [[bibtex]()]\
+  Yiannis Giannakopoulos and Johannes Hahn\
   [17th International Symposium on Algorithmic Game Theory (SAGT 2024)](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/ "SAGT 2024")
 
 
@@ -27,5 +27,5 @@ My research is primarily funded by the [German Research Foundation (DFG)](https:
 - Assistance in Lectures on Einführung in die mathematische Datenanalyse [FAU, 2023]
 
 ## Contact
-[johannes.hahn@utn.de](mailto:johannes.hahn@utn.de)
-[Technische Universität Nürnberg, Ulmenstraße 52i, 90443 Nürnberg](https://maps.app.goo.gl/Yj7iQttU2RLFV42N9 "Google Maps")
+Contact me via email to [johannes.hahn@utn.de](mailto:johannes.hahn@utn.de)\
+My office is located at [UTN, Ulmenstraße 52i, 90443 Nürnberg](https://maps.app.goo.gl/Yj7iQttU2RLFV42N9 "Google Maps")
