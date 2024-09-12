@@ -17,7 +17,7 @@ My research is primarily funded by the [German Research Foundation (DFG)](https:
 
 
 ## Publications
-- __Discrete Single-Parameter Optimal Auction Design__ [[arXiv](https://arxiv.org/abs/2406.08125)] [[doi](https://link.springer.com/chapter/10.1007/978-3-031-71033-9_10)] [[bibtex]()]\
+- __Discrete Single-Parameter Optimal Auction Design__ [[arXiv](https://arxiv.org/abs/2406.08125)] [[doi](https://link.springer.com/chapter/10.1007/978-3-031-71033-9_10)] [[bibtex](/files/gh2024_sagt.bib)]\
   Yiannis Giannakopoulos and Johannes Hahn\
   [17th International Symposium on Algorithmic Game Theory (SAGT 2024)](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/ "SAGT 2024")
 
