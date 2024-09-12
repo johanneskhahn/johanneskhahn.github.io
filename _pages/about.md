@@ -13,7 +13,7 @@ My research is primarily funded by the [German Research Foundation (DFG)](https:
 ## News
 - October 10-11 2024: I will attend the [Mathematics of Gas Transport and Energy (MOG 2024)](https://www.trr154.fau.de/mog2024/) Conference, organized by the CRC TRR-154 and the DFG
 - September 2024: Our paper [Discrete Single-Parameter Optimal Auction Design](https://arxiv.org/abs/2406.08125) has been accepted to [SAGT 2024](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/ "SAGT 2024")
-- April 2024: With a Team from UTN we won the 2nd place on first matchday of the [Franconian Data Science League](https://de.linkedin.com/company/data-science-league?trk=article-ssr-frontend-pulse_little-mention "FDSL") at the Adidas HQ in Herzogenaurach
+- April 2024: With a Team from UTN we won the 2nd place on the first matchday of the [Franconian Data Science League](https://de.linkedin.com/company/data-science-league?trk=article-ssr-frontend-pulse_little-mention "FDSL") at the Adidas HQ in Herzogenaurach
 
 
 ## Publications
