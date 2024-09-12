@@ -8,7 +8,7 @@ I am a research associate and doctoral candidate at the [Analytics & Optimizatio
 
 My research interests lie in the fields of Discrete Optimization and Algorithmic Game Theory, more concrete in the intersection of Mixed-Integer Programming and Optimal Auction Design. Thus far in my doctoral researches, I have primarily worked on topics in Auction Theory, investigating discrete single-parameter auctions via LP duality.
 
-My research is primarily funded by the [German Research Foundation (DFG)](https://www.dfg.de/en "DFG") via the [Collaborative Research Center (CRC) SFB TRR-154](https://www.trr154.fau.de "SFB TRR-154"), which is in its third and final phase. TRR-154 aims for developing methods to supply gas efficiently, i.e., for optimal gas network control. Subproject B07, which I am involved in, treats multiparameter auction problems on graph structures.
+My research is primarily funded by the [German Research Foundation (DFG)](https://www.dfg.de/en "DFG") via the [Collaborative Research Center (CRC) SFB TRR-154](https://www.trr154.fau.de "SFB TRR-154"), which is in its third and final phase. TRR-154 aims for developing methods to supply gas efficiently, i.e., for optimal gas network control. Subproject B07, which I am involved in, aims to treat multiparameter auction problems on graph structures.
 
 ## News
 - October 10-11 2024: I will attend the [Mathematics of Gas Transport and Energy (MOG 2024)](https://www.trr154.fau.de/mog2024/) Conference, organized by the CRC TRR-154 and the DFG
@@ -17,15 +17,15 @@ My research is primarily funded by the [German Research Foundation (DFG)](https:
 
 
 ## Publications
-- __Discrete Single-Parameter Optimal Auction Design__ [arXiv] [doi] [bibtex]
-Yiannis Giannakopoulos and Johannes Hahn
-17th International Symposium on Algorithmic Game Theory (SAGT 2024)
+- __Discrete Single-Parameter Optimal Auction Design__ [arXiv](https://arxiv.org/abs/2406.08125) [doi](https://link.springer.com/chapter/10.1007/978-3-031-71033-9_10) [bibtex]()
+  Yiannis Giannakopoulos and Johannes Hahn
+  [17th International Symposium on Algorithmic Game Theory (SAGT 2024)](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/ "SAGT 2024")
 
 
 ## Teaching
-- Assistance in Lectures on Mathematik für Data Science und Physikstudierende
-- Assistance in Lectures on Einführung in die mathematische Datenanalyse
-at the Friedrich-Alexander-Universität Erlangen-Nürnberg
+- Assistance in Lectures on Mathematik für Data Science und Physikstudierende [FAU, 2022]
+- Assistance in Lectures on Einführung in die mathematische Datenanalyse [FAU, 2023]
 
 ## Contact
-Ulmenstraße in Nuremberg, Mailadresse
+[johannes.hahn@utn.de](mailto:johannes.hahn@utn.de)
+[Technische Universität Nürnberg, Ulmenstraße 52i, 90443 Nürnberg](https://maps.app.goo.gl/Yj7iQttU2RLFV42N9 "Google Maps")
