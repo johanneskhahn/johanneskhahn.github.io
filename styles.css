@@ -1,0 +1,114 @@
+:root {
+  --paper: #faf9f6;
+  --ink: #283b34;
+  --muted: #626963;
+  --line: #dfdfd8;
+  --green: #315f50;
+  --sage: #e8eee5;
+  --accent: #739365;
+  --warm-accent: #aa7959;
+  --sans: Arial, Helvetica, sans-serif;
+  --serif: Georgia, 'Times New Roman', serif;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 110px; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.75 var(--sans); -webkit-font-smoothing: antialiased; }
+a { color: var(--green); text-underline-offset: 4px; text-decoration-thickness: 1px; }
+a:hover { color: #68805e; }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--green); outline-offset: 5px; }
+header { position: sticky; top: 0; z-index: 10; background: #f1f3ec; border-bottom: 1px solid #d7dfd0; }
+.navigation { max-width: 1120px; margin: auto; padding: 0 40px; min-height: 85px; display: flex; justify-content: space-between; align-items: center; gap: 24px; }
+.wordmark { text-decoration: none; font-size: 21px; font-weight: 600; white-space: nowrap; }
+.nav-links { display: flex; gap: 23px; }
+.nav-links a { color: var(--muted); font-size: 15px; text-decoration: none; padding: 7px 0; }
+.nav-links a[aria-current] { color: var(--green); box-shadow: 0 1px var(--green); }
+.menu-toggle { display: none; }
+.container { max-width: 1040px; margin: auto; padding: 0 40px; }
+h1, h2, h3, p { margin-top: 0; }
+h1 { font: normal 29px/1.3 var(--serif); margin-bottom: 10px; }
+h2 { font: normal 32px/1.3 var(--serif); margin-bottom: 25px; }
+p { margin-bottom: 19px; }
+.about { display: grid; grid-template-columns: 260px 1fr; gap: 65px; padding: 60px 0 50px; align-items: start; }
+.portrait { display: block; width: 190px; height: 220px; object-fit: cover; object-position: center 35%; border-radius: 2px; margin-bottom: 23px; filter: saturate(.8); }
+.profile p { font-size: 16px; line-height: 1.65; }
+.profile .keywords { color: var(--muted); font-size: 15px; margin-top: 23px; margin-bottom: 0; }
+.biography p:last-child { margin-bottom: 0; }
+.section { padding: 38px 0; border-top: 1px solid var(--line); }
+.section-heading { margin-bottom: 24px; }
+.section-heading h2 { margin-bottom: 0; }
+.news-item { display: grid; grid-template-columns: 100px 1fr; gap: 25px; padding: 10px 0; align-items: baseline; }
+.news-item time { font-size: 15px; color: var(--muted); }
+.news-item p { margin: 0; }
+.paper { border-left: 2px solid var(--accent); padding: 3px 0 3px 23px; }
+.paper h3 { font-size: 21px; line-height: 1.5; font-weight: 600; margin-bottom: 12px; }
+.paper h3 a { text-decoration: none; }
+.paper h3 a:hover { text-decoration: underline; }
+.authors { margin-bottom: 4px; }
+.authors strong { font-weight: 500; }
+.conference { color: var(--muted); font-size: 16px; margin-bottom: 13px; }
+.paper-links { display: flex; flex-wrap: wrap; gap: 23px; font-size: 16px; }
+#fdsl p { margin-bottom: 0; }
+.teaching-row { display: grid; grid-template-columns: 65px 1fr; gap: 25px; padding: 11px 0; align-items: baseline; }
+.teaching-year { color: var(--muted); font-size: 16px; }
+.teaching-row h3 { font-size: 17px; font-weight: 500; margin-bottom: 3px; line-height: 1.6; }
+.teaching-row p { font-size: 15px; color: var(--muted); margin-bottom: 0; }
+.contact-details p:last-child { margin-bottom: 0; }
+footer.container { border-top: 1px solid var(--line); padding-top: 22px; padding-bottom: 25px; display: flex; justify-content: space-between; gap: 20px; font-size: 14px; color: var(--muted); }
+footer a { text-decoration: none; }
+.skip { position: fixed; top: -80px; left: 15px; padding: 12px; background: var(--green); color: white; z-index: 20; }
+.skip:focus { top: 10px; }
+@media (max-width: 850px) {
+  .navigation { padding: 0 25px; flex-wrap: wrap; gap: 0; }
+  .wordmark { padding: 20px 0; }
+  .nav-links { gap: 18px; padding-bottom: 15px; }
+  .about { grid-template-columns: 220px 1fr; gap: 35px; }
+  .container { padding: 0 28px; }
+  html { scroll-padding-top: 145px; }
+}
+@media (max-width: 650px) {
+  html { scroll-padding-top: 90px; }
+  body { font-size: 17px; }
+  .navigation { padding: 0 23px; min-height: 70px; }
+  .wordmark { font-size: 20px; }
+  .menu-toggle { display: flex; gap: 10px; align-items: center; background: transparent; border: 1px solid var(--line); padding: 7px 10px; color: var(--ink); font: 15px var(--sans); border-radius: 2px; }
+  .nav-links { display: none; flex-basis: 100%; flex-wrap: wrap; gap: 8px 24px; padding: 6px 0 20px; }
+  .nav-links.open { display: flex; }
+  .container { padding: 0 23px; }
+  .about { grid-template-columns: 1fr; gap: 34px; padding: 35px 0; }
+  .portrait { width: 165px; height: 190px; margin-bottom: 18px; }
+  .profile .keywords { margin-top: 17px; }
+  h1 { font-size: 28px; }
+  h2 { font-size: 29px; margin-bottom: 20px; }
+  .section { padding: 30px 0; }
+  .news-item { grid-template-columns: 1fr; gap: 3px; padding: 12px 0; }
+  .news-item time { font-size: 15px; }
+  .paper { padding-left: 17px; }
+  .paper h3 { font-size: 20px; }
+  .teaching-row { grid-template-columns: 45px 1fr; gap: 15px; }
+  footer.container { padding: 20px 23px; font-size: 13px; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Personal links and media keep the same quiet, minimal presentation. */
+.profile-links { display: flex; gap: 12px; margin-top: 23px; }
+.profile-links a { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border: 1px solid #c8d6bf; background: var(--sage); border-radius: 3px; }
+.profile-links a:hover { background: #efeee9; }
+.profile-links svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.paper + .paper { margin-top: 32px; }
+#fdsl p + p { margin-top: 19px; }
+ .fdsl-photo { display: block; width: 100%; height: auto; margin: 25px auto 0; border-radius: 2px; }
+.conducting-video { display: block; width: 100%; max-width: 640px; height: auto; aspect-ratio: 4 / 3; margin: 28px auto; background: #efeee9; border-radius: 2px; }
+.composition-audio { display: block; width: 100%; max-width: 640px; margin: 23px auto 0; }
+@media (max-width: 1000px) and (min-width: 651px) {
+  .navigation { flex-wrap: wrap; gap: 0; }
+  .wordmark { padding: 18px 0; }
+  .nav-links { padding-bottom: 15px; }
+  html { scroll-padding-top: 145px; }
+}
+
+
+/* Restrained colour accents, with the original typography and spacing. */
+h2 { color: #365e4c; }
+.news-item time { color: #8b6349; }
+#music h2 { color: #8b6349; }
+.composition-audio { accent-color: #739365; }
